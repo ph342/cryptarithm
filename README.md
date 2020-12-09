@@ -8,7 +8,9 @@ An alphametic puzzle (also sometimes known as a cryptarithm) is a type of puzzle
 
 ## Execution
 The program has two execution modes. In the first, the user can enter a formula and the program finds numbers that make the formula true:
+
 ![Option 1](/resources/enter-formula.png)
 
 In the second, the program finds cryptarithms that are also true when spoken, e.g. `ONE + ONE = TWO`.
+
 ![Option 2](/resources/find-spoken-formulas.png)
